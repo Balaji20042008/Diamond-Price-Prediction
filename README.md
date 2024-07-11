@@ -38,7 +38,7 @@ Target variable:
 
 #### How to run the web application?
 ##### Step-01: Clone the repository
-git clone https://github.com/saksham-bhardwaj1/Diamond_Price_Prediction
+git clone https://github.com/Balaji20042008/Diamond-Price-Prediction
 
 ##### Step-02: Create a conda environment after opening the repository
 conda create -p venv python==3.8 conda activate venv/
